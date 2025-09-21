@@ -13,16 +13,14 @@ Challenge the computer in this classic hand game and see who comes out on top.
 
 ## Project Stucture
 
-
-Rock-Paper-Scissor/
-
-│── Screenshots/            # terminal Screenshots
-│    ├── Welcome1.png
-│    ├── Tie.png
-│    ├── No.png
-│    ├── Reapeat.png
-│── RPS Game.py             # Project code (VS code)
-│── README.md               # Project documentation  
+Rock-Paper-Scissors/  
+│── Screenshots/              # Terminal screenshots
+│    ├── Welcome1.png  
+│    ├── Tie.png  
+│    ├── No.png  
+│    ├── Reapeat.png  
+│── RPS Game.py               # Project code (VS code)
+│── README.md                  # Project documentation  
 
 
 ## How to Play
@@ -44,7 +42,7 @@ Rock-Paper-Scissor/
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/welcome1.png" width="300">
+  <img src="Screenshots/Welcome1.png" width="300">
   <img src="Screenshots/Tie.png" width="300">
 </p>
 
@@ -60,9 +58,9 @@ No external libraries are required! This game runs on pure Python. Ensure you ha
 - Verify installation by running `python --version` or `python3 --version` in your terminal.  
 
 ## Usage
-1. Save the `Rock-Paper-Scissors_VRPS_Game.py` file to your local machine.  
+1. Save the `Rock-Paper-Scissor_RPS_Game.py` file to your local machine.  
 2. Open a terminal in the directory containing the file.  
-3. Run: `python Rock-Paper-Scissors_VRPS_Game.py` (or `python3 Rock-Paper-Scissor_RPS_Game.py` on some systems).  
+3. Run: `python Rock-Paper-Scissor_RPS_Game.py` (or `python3 Rock-Paper-Scissor_RPS_Game.py` on some systems).  
 4. Follow the on-screen prompts to play!  
 
 ## Contributing
@@ -80,5 +78,5 @@ This project is open-source. Feel free to use and modify it as you wish! (Consid
 
 ## Contact
 Name : Inderpreet Kaur  
-E-mail : inderpreetkaur0649@gmail.com
+E-mail : inderpreetkaur0649@gmail.com  
 linkndin : https://www.linkedin.com/in/inderpreet-kaur-613b1437b/
