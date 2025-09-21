@@ -13,15 +13,14 @@ Challenge the computer in this classic hand game and see who comes out on top.
 
 ## Project Stucture
 
-Rock-Paper-Scissors/  
-│── Screenshots/              # Terminal screenshots
-│    ├── Welcome1.png  
-│    ├── Tie.png  
-│    ├── No.png  
-│    ├── Reapeat.png  
-│── RPS Game.py               # Project code (VS code)
-│── README.md                  # Project documentation  
-
+Rock-Paper-Scissors/    
+│── Screenshots/                 # Terminal screenshots     
+│    ├── Welcome1.png    
+│    ├── Tie.png    
+│    ├── No.png    
+│    ├── Reapeat.png      
+│── README.md                    # Project documentation       
+│── RPS Game.py                  # Project code (VS code)     
 
 ## How to Play
 1. **Run the Game**:
